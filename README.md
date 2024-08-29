@@ -10,7 +10,7 @@ Contarás con coaches y facilitadores que, en caso de que encuentres dificultade
 
 ## Introducción del reto
 
-Bienvenido a este desafío de What The Hack con Código Facilito. En este reto, nos centraremos en Modern Development con DevOps y GitHub. Nuestro objetivo es ayudarte a aumentar la velocidad de desarrollo e implementar procedimientos adecuados de DevOps en tu organización. GitHub ofrece un conjunto de herramientas para desarrolladores que permiten agilizar la creación de código, automatizar tareas y garantizar la seguridad del código. A lo largo de este reto, explorarás cómo implementar estos procesos de manera efectiva.
+Bienvenido a este desafío de What The Hack con Código Facilito. En este reto, nos centraremos en Modern Development con DevOps y GitHub. Nuestro objetivo es ayudarte a aumentar la velocidad de desarrollo e implementar procedimientos adecuados de DevOps en tu organización. GitHub ofrece un conjunto de herramientas para desarrolladores que permiten agilizar la creación de código, automatizar tareas y garantizar la seguridad del código. A lo largo de este reto, explorarás cómo implementar estos procesos de manera efectiva..
 
 ## El escenario del reto
 
