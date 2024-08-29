@@ -14,7 +14,7 @@ Bienvenido a este desafío de What The Hack con Código Facilito. En este reto, 
 
 ## El escenario del reto
 
-Como parte de una campaña de ayudar a la comunidad, tu empresa está apoyando a un refugio local de animales actualizando, desplegando y gestionando una aplicación web para mostrar mascotas disponibles para adopción....
+Como parte de una campaña de ayudar a la comunidad, tu empresa está apoyando a un refugio local de animales actualizando, desplegando y gestionando una aplicación web para mostrar mascotas disponibles para adopción.
 
 
 ## Retos
