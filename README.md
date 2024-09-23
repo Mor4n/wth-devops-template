@@ -1,4 +1,16 @@
+# Deploy final (resultado) 
+![Home](imgs/home.png)
+![Hover](imgs/hover.png)
+![View2](imgs/View2.png)
+![View](imgs/View.png)
+![Edit](imgs/Edit.png)
+![Add](imgs/Add.png)
+
+
 # What The Hack - Modern development con DevOps y GitHub
+
+
+
 
 ## ¿Qué es What The Hack?
 
